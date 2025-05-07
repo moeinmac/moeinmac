@@ -10,7 +10,7 @@ I'm Moein Ghsemi
 </p>
 
 <p align='center'>
-<strong>Software Enginer</strong>
+<strong>Software Engineer</strong>
 </p>
 
 <p align='center'>
